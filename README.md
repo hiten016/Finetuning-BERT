@@ -1,2 +1,2 @@
-# Finetuning-BERT
-Finetuning bert on GoEmotion dataset
+# Finetuning
+Basic Implementation
